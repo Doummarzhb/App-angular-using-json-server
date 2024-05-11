@@ -1,8 +1,0 @@
-C:\Users\hp\source\repos\loginregistration\abby\AbbyWeb\AbbyWeb\obj\Debug\net8.0\AbbyWeb.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hp\source\repos\loginregistration\abby\AbbyWeb\AbbyWeb\obj\Debug\net8.0\AbbyWeb.AssemblyInfoInputs.cache
-C:\Users\hp\source\repos\loginregistration\abby\AbbyWeb\AbbyWeb\obj\Debug\net8.0\AbbyWeb.AssemblyInfo.cs
-C:\Users\hp\source\repos\loginregistration\abby\AbbyWeb\AbbyWeb\obj\Debug\net8.0\AbbyWeb.csproj.CoreCompileInputs.cache
-C:\Users\hp\source\repos\loginregistration\abby\AbbyWeb\AbbyWeb\obj\Debug\net8.0\AbbyWeb.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\hp\source\repos\loginregistration\abby\AbbyWeb\AbbyWeb\obj\Debug\net8.0\AbbyWeb.RazorAssemblyInfo.cache
-C:\Users\hp\source\repos\loginregistration\abby\AbbyWeb\AbbyWeb\obj\Debug\net8.0\AbbyWeb.RazorAssemblyInfo.cs
-C:\Users\hp\source\repos\loginregistration\abby\AbbyWeb\AbbyWeb\obj\Debug\net8.0\AbbyWeb.sourcelink.json
